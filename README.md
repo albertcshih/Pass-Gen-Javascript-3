@@ -23,4 +23,4 @@ Generated password with 8 length:
 ![8 length password](./images/generated-password.PNG)
 
 Invalid input of length alert:
-![Invalid length](Invalid-length.PNG)
+![Invalid length](./images/Invalid-length.PNG)
